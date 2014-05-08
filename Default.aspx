@@ -4,8 +4,8 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <link href="styles/StyleSheet2.css" rel="stylesheet" />
-    <script src="javaScript/JavaScript.js"></script>
+    <link href="styles/main.css" rel="stylesheet" />
+    <script src="javaScript/main.js"></script>
     <title></title>
 </head>
 <body>
